@@ -1,0 +1,7 @@
+# Ignore .exe files (Windows executables)
+*.exe
+
+# Ignore any subfolders inside output, dat, and po directories
+output/**/
+dat/**/
+po/**/

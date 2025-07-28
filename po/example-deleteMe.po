@@ -1,0 +1,17 @@
+msgid "Doll"
+msgstr "Muñeca"
+
+msgid "Woman"
+msgstr "Mujer"
+
+msgid "Child"
+msgstr "Niño"
+
+msgid "Child A"
+msgstr "Niño A"
+
+msgid "Cop A"
+msgstr "Poli A"
+
+msgid "Cop B"
+msgstr "Poli B"
