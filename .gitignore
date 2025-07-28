@@ -1,3 +1,6 @@
+# Ignore .po files
+*.po
+
 # Ignore .exe files (Windows executables)
 *.exe
 
